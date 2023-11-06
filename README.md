@@ -18,6 +18,6 @@
 
 ### Contact
 
-💌 for love letters please use js.schwerdt@gmail.com
+💌 for love letters please contact js.schwerdt@gmail.com
 
 ![Schauen wir mal was wird, was wird!](https://media.giphy.com/media/QsKxQSqunNaG3I0g6O/giphy.gif)
