@@ -13,7 +13,7 @@
 
 - HTML, CSS, JS (R, Python)
 - Tailwind CSS
-- Chacra UI
+- Storybook
 - VSCode
 
 ### Contact
