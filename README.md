@@ -7,3 +7,11 @@
 👩‍💻 I already worked in some frontend projects the last 1.5 years.
 
 👾 Also I'm interested in synthesizers, especially modular systems and music production. 
+
+
+### Languages and Tools I worked with 
+
+- HTML, CSS, JS (R, Python)
+- Tailwind CSS
+- Chacra UI
+- VSCode
