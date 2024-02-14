@@ -2,7 +2,7 @@
 
 ### Web Designer and Developer
 
-🐣 Currently I'm a student at "Neue Fische" and I'm starting with a Web Development Bootcamp to refresh and strenghten my coding skills. 
+🐣 Just finished my Web Development Bootcamp with Neue Fische. 
 
 👩‍💻 I already worked in some frontend projects the last 1.5 years.
 
